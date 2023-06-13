@@ -7,7 +7,7 @@ I have material and production knowledge, therefore I have design skills for pro
 <h3 align="center">Social Accounts</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mustafa-ahmet-eren-219267208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigityesiladaa" height="30" width="40" /></a>
-<a href="https://instagram.com/yigityesilada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigityesilada" height="30" width="40" /></a>
+<a href="https://instagram.com/m.ahmeterenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigityesilada" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=mazmod11a@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="@yigityesilada" height="30" width="40" /></a>
 </p>
 
