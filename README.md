@@ -13,9 +13,9 @@ I have material and production knowledge, therefore I have design skills for pro
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/autocad.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
 <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/c-logo.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
 <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/solid.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
 <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/nx.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
 <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/arduino.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
+<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/autocad.png" alt="kotlin" width="70" height="50"/></a>
 </p>
