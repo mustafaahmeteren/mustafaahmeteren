@@ -6,16 +6,16 @@ I have material and production knowledge, therefore I have design skills for pro
 
 <h3 align="center">Social Accounts</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mustafa-ahmet-eren-219267208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigityesiladaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mustafaahmeteren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigityesiladaa" height="30" width="40" /></a>
 <a href="https://instagram.com/m.ahmeterenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigityesilada" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=mazmod11a@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="@yigityesilada" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/c-logo.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
-<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/solid.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
-<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/nx.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
-<a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/arduino.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
+<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/c-logo.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
+<a href="https://www.solidworks.com/tr" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/solid.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
+<a href="https://trials.sw.siemens.com/en-US/trials/nx-core-designer" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/nx.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/arduino.png" alt="kotlin" width="60" height="60"/>&nbsp;&nbsp;</a>
 <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mustafaahmeteren/mustafaahmeteren/blob/main/languages_and_tools/autocad.png" alt="kotlin" width="70" height="50"/></a>
 </p>
