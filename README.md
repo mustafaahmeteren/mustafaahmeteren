@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub page, I am Mustafa Ahmet Eren 👋</h1>
 <h3 align="center">Electrical and Electronics Engineer</h3>
 <h4 align="center">Hello everyone,
-I graduated from Bolu Abant İzzet Baysal University, Department of Electrical and Electronics. During my studentship, I led the establishment of a student club called İnotek. I participated in the Teknofest competitions for two years in a row in the rocket category with the role of team captain. I took an active role in the electronic and mechanical designs, implementation and reporting stages of the rocket project and led my team in organizing my team. Thanks to these projects, I gained a good level of Solidworks program knowledge and skills, in-team organization and management experience.
+I graduated from Bolu Abant Izzet Baysal University, Department of Electrical and Electronics. During my studentship, I led the establishment of a student club called Inotek. I participated in the Teknofest competitions for two years in a row in the rocket category with the role of team captain. I took an active role in the electronic and mechanical designs, implementation and reporting stages of the rocket project and led my team in organizing my team. Thanks to these projects, I gained a good level of Solidworks program knowledge and skills, in-team organization and management experience.
 I have material and production knowledge, therefore I have design skills for production. In cases where I am lacking, I can easily adapt to the requirements of the job and grasp it quickly. In addition to my electrical knowledge, I have knowledge and experience in many processes of production.</h4>
 
 <h3 align="center">Social Accounts</h3>
